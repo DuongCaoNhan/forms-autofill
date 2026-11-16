@@ -1,0 +1,12 @@
+{
+  "name": "forms-autofill",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test-once": "node form-fill.mjs --no-submit",
+    "run": "node form-fill.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.48.2"
+  }
+}

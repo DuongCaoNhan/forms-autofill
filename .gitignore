@@ -1,0 +1,4 @@
+# Edge profile with the signed-in Microsoft session; never commit it.
+/.profile/
+
+node_modules/

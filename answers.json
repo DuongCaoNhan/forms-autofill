@@ -1,0 +1,31 @@
+{
+  "url": "https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=YOUR_FORM_ID",
+"answers": [
+    { "question": "Chọn button Reset", "answer": "초기화" },
+    { "question": "Chọn button Clear", "answer": "지우기" },
+    { "question": "Chọn button Not use", "answer": "사용 안 함" },
+    { "question": "Chọn button Snapshot", "answer": "스냅샷" },
+    { "question": "Chọn button Shutdown", "answer": ["셧다운", "중지", "종료", "끄기"] },
+    { "question": "Chọn button Destroy", "answer": "파기" },
+    { "question": "Chọn button Merge", "answer": "병합" },
+    { "question": "Chọn button Force Stop", "answer": "강제 종료" },
+    { "question": "Chọn button Uninstall", "answer": ["제거", "삭제"] },
+    { "question": "Chọn button Lock", "answer": "잠금" },
+    { "question": "Chọn button Edit", "answer": "수정" },
+    { "question": "Chọn button Ban", "answer": ["밴", "금지"] },
+    { "question": "Chọn button Alter", "answer": "변경" },
+    { "question": "Chọn button Delete", "answer": "삭제" },
+    { "question": "Chọn button Terminate", "answer": "종료" },
+    { "question": "Chọn button Remove", "answer": ["제거", "탈퇴"] },
+    { "question": "Chọn button Drop", "answer": "드롭" },
+    { "question": "Chọn button Cancel", "answer": ["취소", "해지"] },
+    { "question": "Chọn button Purge trong Cache Purge", "answer": ["정리", "퍼지"] },
+    { "question": "Chọn button Suspend", "answer": "일시 정지" },
+    { "question": "Chọn button Flush", "answer": "플러시" },
+    { "question": "Chọn button Deactivate/disable", "answer": "비활성화" },
+    { "question": "Chọn button Truncate", "answer": ["자르기", "비우기"] },
+    { "question": "Chọn button Unsubcribe", "answer": "구독 취소" },
+    { "question": "Chọn button Commit", "answer": "커밋" },
+    { "question": "Vui lòng ghi Account PM của bạn", "answer": "YOUR_PM_ACCOUNT" }
+]
+}
